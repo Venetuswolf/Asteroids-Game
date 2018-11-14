@@ -63,6 +63,22 @@
             }
         },
         {
+            "Key": "1fb121cd-e0f5-476e-bba5-115ca5c41332",
+            "Value": {
+                "id": "7f770e18-06ca-4b4e-b6db-2bba765d4108",
+                "resourcePath": "sprites\\spr_bullet\\spr_bullet.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "31ede1e9-7a9f-4dca-8463-663516ed7cf2",
+            "Value": {
+                "id": "04102b21-7df0-446b-9765-d48ad0a92d55",
+                "resourcePath": "objects\\obj_bullet\\obj_bullet.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "324332a1-a405-48df-b681-2ab1e2123c9d",
             "Value": {
                 "id": "f06732b3-eb41-40e7-bfef-7b834bc14f83",
