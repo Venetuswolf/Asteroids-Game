@@ -71,6 +71,14 @@
             }
         },
         {
+            "Key": "26ac9645-2e38-499b-bb1b-f5d48ef12361",
+            "Value": {
+                "id": "fa62f64d-d574-43a9-9624-7d5defd4f6c3",
+                "resourcePath": "objects\\obj_asteroid\\obj_asteroid.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "31ede1e9-7a9f-4dca-8463-663516ed7cf2",
             "Value": {
                 "id": "04102b21-7df0-446b-9765-d48ad0a92d55",
@@ -143,11 +151,27 @@
             }
         },
         {
+            "Key": "75896a60-f2a4-410d-b533-dab08d44bd45",
+            "Value": {
+                "id": "c0d90994-746b-49f9-abbe-a47db21c96be",
+                "resourcePath": "sprites\\spr_asteroid_mini\\spr_asteroid_mini.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "8587d727-e448-4e35-8f16-7ff0d2c91d85",
             "Value": {
                 "id": "040e25df-bd93-4e8a-97cc-9de2ac8adf03",
                 "resourcePath": "views\\8587d727-e448-4e35-8f16-7ff0d2c91d85.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "9594745e-0c7d-44a9-8a6f-1ff6b88039b2",
+            "Value": {
+                "id": "9892c998-9b06-4776-ad2f-eb01214f1f00",
+                "resourcePath": "sprites\\spr_asteroid\\spr_asteroid.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -204,6 +228,14 @@
                 "id": "b456dda0-840b-4979-bcb4-bb1294317879",
                 "resourcePath": "views\\e42e318a-e89e-4fb7-9580-2ff345bd4b8b.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "f92d7595-374a-4de1-92d8-a5ec5c791ffa",
+            "Value": {
+                "id": "8911e136-e8c3-48e3-9d73-d52503667881",
+                "resourcePath": "objects\\obj_asteroid_mini\\obj_asteroid_mini.yy",
+                "resourceType": "GMObject"
             }
         }
     ],
