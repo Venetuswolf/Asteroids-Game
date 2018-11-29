@@ -295,6 +295,14 @@
             }
         },
         {
+            "Key": "fe73457a-05d7-4ae2-ac58-ef7f0f46597f",
+            "Value": {
+                "id": "b7713d67-341d-4115-8974-c83833e5f218",
+                "resourcePath": "objects\\obj_end_score\\obj_end_score.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "ff358545-0965-47e1-ac0c-3ce1a6686aae",
             "Value": {
                 "id": "e16b4b7f-25ad-446a-8628-e563f040145f",
