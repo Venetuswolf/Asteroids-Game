@@ -31,6 +31,14 @@
     },
     "resources": [
         {
+            "Key": "05371b37-ae50-47ab-b6ce-26df0a4648ec",
+            "Value": {
+                "id": "9a18e2a2-d85b-40e7-8e64-76af4a69a60f",
+                "resourcePath": "sprites\\spr_gameover\\spr_gameover.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "07361cfc-2783-435d-9d52-9eb6753bb03a",
             "Value": {
                 "id": "f5e823c4-9894-4de3-99dd-deeb6705f996",
@@ -183,6 +191,14 @@
             }
         },
         {
+            "Key": "7722cb25-18dc-48ef-970b-6bd7d7217df6",
+            "Value": {
+                "id": "8e86c2e0-3052-470c-b659-bfc795b04e77",
+                "resourcePath": "rooms\\rm_gameover\\rm_gameover.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "8587d727-e448-4e35-8f16-7ff0d2c91d85",
             "Value": {
                 "id": "040e25df-bd93-4e8a-97cc-9de2ac8adf03",
@@ -228,6 +244,14 @@
                 "id": "edc0d98f-d914-423d-9ac1-93dee80b645a",
                 "resourcePath": "options\\windows\\options_windows.yy",
                 "resourceType": "GMWindowsOptions"
+            }
+        },
+        {
+            "Key": "dc064376-7c9f-4558-8e94-4753fb77c2b6",
+            "Value": {
+                "id": "54cc775e-7946-4975-8ad8-47bb0a3280e8",
+                "resourcePath": "objects\\obj_gameover\\obj_gameover.yy",
+                "resourceType": "GMObject"
             }
         },
         {
